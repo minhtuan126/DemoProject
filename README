@@ -1,0 +1,13 @@
+Project : Clone page new feeds of facebook
+
+How to run :
+
+	Checkout from git@github.com:caocuongccc/khuong-fashion-clone.git
+	Go to DemoProject, double click index.html
+
+Contributing
+
+    Create your feature branch with git checkout -b feature/fackbook-ui
+    Add all file to local with git add file-name
+    Commit all chang to local git commit -m "Comment commit here"
+    Push your branch to server git push origin feature/fackbook-ui
